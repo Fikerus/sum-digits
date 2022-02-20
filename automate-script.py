@@ -16,6 +16,7 @@ def main(argv):
     if len(argv)==1:
         y=int(argv[0])
     if len(argv)==2:
+        x=int(argv[0])
         y=int(argv[1])
     for i in range(x,y+1):
         run(["./sum-digits.py",f"{i}"])
