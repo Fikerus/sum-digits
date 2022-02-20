@@ -2,6 +2,20 @@
 
 **Program for concatenating numbers from 1 to N and summing all digits in the resulted string**
 
+Example:
+
+	Input number is 11
+	
+	"1" + "2" + "3" + "4" + "5" + "6" + "7" + "8" + "9" + "10" + "11"
+	
+	1234567891011
+	
+	1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 1 + 0 + 1 + 1
+	
+	48
+
+
+
 Usage:
 ```
 git clone https://github.com/Fikerus/sum-digits.git
