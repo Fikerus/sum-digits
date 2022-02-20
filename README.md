@@ -22,4 +22,4 @@ Or simply
 ```
 python automate-script.py <end-number>
 ```
-<start-number> will be 1 by default
+&lt;start-number&mt; will be 1 by default
