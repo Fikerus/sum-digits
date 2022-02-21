@@ -6,7 +6,7 @@ STR_PRINT=False
 
 def usage():
     print("usage:")
-    print("    shikovFunction <number>")
+    print(f"    sum-digits.py <number>")
     print("")
     print("output:")
     print("    All numbers concatenated from 1 to N")
