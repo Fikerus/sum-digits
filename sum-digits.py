@@ -6,7 +6,7 @@ STR_PRINT=False
 
 def usage():
     print("usage:")
-    print(f"    sum-digits.py <number>")
+    print("    sum-digits.py <number>")
     print("")
     print("output:")
     print("    All numbers concatenated from 1 to N")
